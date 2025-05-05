@@ -1,0 +1,6 @@
+The C++ Programming Language#Bjarne Stroustrup#032156840#1365#1.7
+Head First Java#Kathy Sierra#0596009208#688#1.3
+Beginning Programming for Dummies#Barry Burd#001840a03#430#0.64
+The C++ Programming Language#Bjarne Stroustrup#13215a3841#203178
+The Grapes of Wrath#John Steinbeck#167001617X#9590
+To Kill A Mockingbird#Harper Lee#1162420715#3503
